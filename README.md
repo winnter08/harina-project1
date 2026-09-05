@@ -1,2 +1,2 @@
-# harina-resume
-this is Alwin C. Harina's Resume. 
+# harina-project1-NT3109
+Alwin C. Harina's - Online Resume. 
